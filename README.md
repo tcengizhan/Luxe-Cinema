@@ -1,4 +1,4 @@
-# Luxe Cinema 
+# LuxeCinema 
 Sinema Otomasyonu - C# Windows Forms
 
 ## Proje Hakkında 
