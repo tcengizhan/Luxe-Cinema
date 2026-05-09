@@ -25,7 +25,7 @@ Bu proje, grup olarak oluşturulan taslak ve fikirler üzerine inşa edilmiştir
 
 ## Veritabanı Kurulumu
  
-SQL Server Management Studio'da `Filmler` adında bir veritabanı oluşturun, ardından aşağıdaki sorguyu çalıştırın:
+SQL Server Management Studio'da Filmler adında bir veritabanı oluşturun, ardından aşağıdaki sorguyu çalıştırın:
 ```sql
 CREATE TABLE Biletler (
     BiletKod   CHAR(6)        PRIMARY KEY,
